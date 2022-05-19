@@ -1,0 +1,15 @@
+/workspaces/CodeSpaceDemo/ZwtDemo/bin/Debug/net6.0/ZwtDemo
+/workspaces/CodeSpaceDemo/ZwtDemo/bin/Debug/net6.0/ZwtDemo.deps.json
+/workspaces/CodeSpaceDemo/ZwtDemo/bin/Debug/net6.0/ZwtDemo.runtimeconfig.json
+/workspaces/CodeSpaceDemo/ZwtDemo/bin/Debug/net6.0/ZwtDemo.dll
+/workspaces/CodeSpaceDemo/ZwtDemo/bin/Debug/net6.0/ZwtDemo.pdb
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.csproj.AssemblyReference.cache
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.AssemblyInfoInputs.cache
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.AssemblyInfo.cs
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.csproj.CoreCompileInputs.cache
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.dll
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/refint/ZwtDemo.dll
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.pdb
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ZwtDemo.genruntimeconfig.cache
+/workspaces/CodeSpaceDemo/ZwtDemo/obj/Debug/net6.0/ref/ZwtDemo.dll
